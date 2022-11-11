@@ -13,6 +13,15 @@
 ![crypto-details-eth](./assets/crypto-details-eth.png)
 ![news](./assets/news.png)
 
+### Mobile View
+
+![homepage-mobile-view](./assets/homepage-mobile-view.png)
+![homepage-mobile-view-menu](./assets/homepage-mobile-view-menu.png)
+![cryptocurrencies-mobile-view](./assets/cryptocurrencies-mobile-view.png)
+![cryptocurrencies-mobile-view-searching](./assets/cryptocurrencies-mobile-view-searching.png)
+![news-mobile-view](./assets/news-mobile-view.png)
+![news-mobile-view-binance-usd-category](./assets/news-mobile-view-binance-usd-category.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
